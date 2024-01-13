@@ -7,10 +7,6 @@
     text-align: center;
     width: 40%;
 }
-ul > li {
-    list-style-type: none;
-}
-
 .divider {
     border-bottom: 2px solid #162a72;
 }
@@ -22,6 +18,7 @@ ul > li {
     border: 2px solid #b1bcdb;
     color: #405685;
     width: 5%;
+    padding: 5px;
 }
 
 .text-box {
@@ -30,6 +27,7 @@ ul > li {
     color: #405685;
     width: 60%;
     margin: 10px 0;
+    padding: 10px;
 }
 
 .image-box {
@@ -39,6 +37,12 @@ ul > li {
     color: #405685;
     width: 60%;
     margin: 10px 0;
+    padding: 10px;
+}
+.image-box > img {
+    width: 50%;
+    height: 40%;
+    border: 2px solid #162a72;
 }
 
 .header {
