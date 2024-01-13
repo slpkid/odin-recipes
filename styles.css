@@ -1,3 +1,21 @@
 .description {
     color:grey;
 }
+.container {
+    border: 2px solid black;
+    margin: auto;
+    text-align: center;
+    width: 40%;
+}
+ul > li {
+    list-style-type: none;
+}
+
+.divider {
+    border-bottom: 2px solid black;
+}
+.go-back {
+    padding-top: 10px;
+    text-align: center;
+    margin: auto;
+}
