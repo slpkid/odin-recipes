@@ -1,5 +1,5 @@
 .description {
-    color:grey;
+    color: #e3e4e5;
 }
 .container {
     border: 2px solid black;
@@ -12,10 +12,39 @@ ul > li {
 }
 
 .divider {
-    border-bottom: 2px solid black;
+    border-bottom: 2px solid #162a72;
 }
 .go-back {
     padding-top: 10px;
     text-align: center;
     margin: auto;
+    background-color: #9297ae;
+    border: 2px solid #b1bcdb;
+    color: #405685;
+    width: 5%;
+}
+
+.text-box {
+    background-color: #9297ae;
+    border: 2px solid #b1bcdb;
+    color: #405685;
+    width: 60%;
+    margin: 10px 0;
+}
+
+.image-box {
+    text-align: center;
+    background-color: #9297ae;
+    border: 2px solid #b1bcdb;
+    color: #405685;
+    width: 60%;
+    margin: 10px 0;
+}
+
+.header {
+    color: #162a72;
+}
+
+body {
+    background-color: #162a72;
 }
