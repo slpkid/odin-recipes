@@ -66,6 +66,10 @@ body {
     height: 200px;
     border: 2px solid #162a72;
 }
+.center-text {
+    text-align: center;
+    
+}
 .wonton-box {
     padding: 5px;
     text-align: center;
